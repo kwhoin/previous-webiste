@@ -1114,8 +1114,9 @@ figure {
 }
 img {
   vertical-align: middle;
-  width:20px;
+  width:300px;
   height:auto;
+  padding-bottom: 15px;
 }
 .img-responsive,
 .thumbnail > img,
@@ -1125,6 +1126,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  text-align: middle;
 }
 .img-rounded {
   border-radius: 6px;
