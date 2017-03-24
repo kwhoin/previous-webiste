@@ -57,7 +57,11 @@ a#virgin:focus {
 }
 a#wirkn:hover,
 a#wirkn:focus {
-  color: #00a9e0 ;
+  color: #00a9e0;
+}
+a#uberflip:hover,
+a#uberflip:focus {
+    color: #C90158;
 }
 a:hover,
 a:focus {
